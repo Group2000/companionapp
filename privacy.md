@@ -54,8 +54,8 @@ We need location permissions to be able to use bluetooth to connect to cell moni
 You can enable or disable access to this information at any time, through Your Device settings.
 
 Use of Your Personal Data
-Personal data is not used.
 
+Personal data is not used.
 
 
 Changes to this Privacy Policy
