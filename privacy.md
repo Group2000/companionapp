@@ -1,7 +1,7 @@
 # Privacy Policy for Cell Monitor Companion App
 
-**Effective date:** [YYYY-MM-DD]  
-**Last updated:** [YYYY-MM-DD]
+**Effective date:** 2026-04-16
+**Last updated:** 2026-04-16
 
 This Privacy Policy explains how **Cell Monitor Companion App** ("the App") handles information when you use it.
 
